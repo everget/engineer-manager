@@ -25,7 +25,6 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Building Influence for Engineers and EMs](https://maven.com/kellyvaughn/engineering-management) - Learn the 3 key skills you need to be an impactful leader in your engineering org
 
 ## Mentoring
- * [Plato](https://www.platohq.com/)
  * [SCORE](https://www.score.org/)
  * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
  * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
@@ -315,6 +314,7 @@ This repository contains a comprehensive collection of articles, books, podcasts
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
  * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
  * [alphalist Community | Network for Technical Leaders](https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community) - A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). 
+ * [Engineering Leaders Community (ELC)](https://www.engineeringleaders.io/) - In-person community for engineering leaders in Central Europe. Monthly meetups in Prague, Brno, Bratislava and Krakow, plus an annual conference.
 
 ## Contributing 
 1. Fork it

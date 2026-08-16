@@ -600,12 +600,6 @@
         "cat": "article"
     },
     {
-        "title": "Plato",
-        "url": "https://www.platohq.com/",
-        "reason": "",
-        "cat": "mentoring"
-    },
-    {
         "title": "SCORE",
         "url": "https://www.score.org/",
         "reason": "",
@@ -1323,6 +1317,12 @@
         "title": "alphalist Community | Network for Technical Leaders",
         "url": "https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community",
         "reason": "A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). ",
+        "cat": "community"
+    },
+    {
+        "title": "Engineering Leaders Community (ELC)",
+        "url": "https://www.engineeringleaders.io/",
+        "reason": "In-person community for engineering leaders in Central Europe. Monthly meetups in Prague, Brno, Bratislava and Krakow, plus an annual conference.",
         "cat": "community"
     },
     {
